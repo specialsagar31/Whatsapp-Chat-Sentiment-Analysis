@@ -1,0 +1,405 @@
+04/08/21, 12:23 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+13/09/20, 12:37 - +91 99532 43439 created group "Sub-k Data Science Group"
+04/08/21, 12:23 - Pranay Subk added you
+05/08/21, 13:03 - Pranay Subk: Let's have our call from 1:30 - 2:30 today as there's convo AI call starting from 2:30
+05/08/21, 13:05 - Abhishek Subk: Ok
+05/08/21, 13:41 - Kishlaya: I haven't received link to join the meeting
+05/08/21, 13:41 - Kishlaya: Can I join with previous link?
+05/08/21, 13:41 - Shishir Singh Subk: Yes
+05/08/21, 13:41 - Abhishek Subk: https://meet.google.com/dqs-ztzw-zvj
+05/08/21, 13:42 - Abhishek Subk: This is the daily sync up meeting link.
+05/08/21, 13:42 - Kishlaya: Ohok
+05/08/21, 17:30 - Pranay Subk: Hi Abhishek: Pls see if you can join 6pm call
+05/08/21, 17:32 - Abhishek Subk: Sure Pranay
+05/08/21, 18:54 - Pranay Subk: <Media omitted>
+05/08/21, 18:55 - Pranay Subk: @919777369530 : Abhishek, 👆 see the kind of response generators they are using in social bot. And how responses are being ranked
+05/08/21, 18:56 - Abhishek Subk: Yes Pranay
+05/08/21, 18:56 - Pranay Subk: This is what they did in 2018-19. I am hoping they have same bot in the backend
+05/08/21, 18:56 - Abhishek Subk: Let me check
+05/08/21, 18:56 - Pranay Subk: If you are interested, I will share more research papers with you on this topic
+05/08/21, 18:57 - Pranay Subk: <Media omitted>
+05/08/21, 18:57 - Pranay Subk: I also liked these folks 👆
+05/08/21, 18:58 - Pranay Subk: They are 10 years ahead of their Indian counterparts
+05/08/21, 19:00 - Pranay Subk: Download replika.ai
+05/08/21, 19:00 - Pranay Subk: They use above framework for their bot
+05/08/21, 19:21 - Abhishek Subk: Yes pranay I am
+05/08/21, 19:21 - Abhishek Subk: I'll read the paper properlyn
+05/08/21, 19:21 - Abhishek Subk: And give feedback to you
+06/08/21, 08:27 - Pranay Subk: Hi Prashant: I just recalled that four factors were considered for creating clusters  - mean, std, group size and unacceptable transactions. In that case, cluster analysis will have to be redone on green and red datasets separately
+06/08/21, 08:28 - Pranay Subk: 3 clusters from each analysis.. so we will have 6 clusters in total
+06/08/21, 08:35 - Pranay Subk: In new cluster analysis for both green and red datasets, only 3 factors will be taken - mean, std and group size
+09/08/21, 15:03 - Pranay Subk: Hi Team: Need to move tomorrow's data science call to 12:45 - 1:45 pm
+09/08/21, 15:03 - Pranay Subk: Hope that's ok
+10/08/21, 12:47 - Pranay Subk: Team: lets meet at 1 pm pls
+10/08/21, 12:48 - Pranay Subk: Having lunch
+10/08/21, 12:48 - Prashant Subk: ok sure
+10/08/21, 12:50 - Abhishek Subk: Ok
+10/08/21, 14:31 - Pranay Subk: Hi Shishir: I got free now. Is there anything to discuss on ANM?
+10/08/21, 14:31 - Pranay Subk: We have to work on Sasi's mail. Let's organize call with Mangaraju and Vinod at earliest
+10/08/21, 14:33 - Shishir Singh Subk: Nothing as of now..
+10/08/21, 14:33 - Shishir Singh Subk: I have gone through that mail...they are looking for AI/ML for transactions done by SBI agents to factor out the risk
+10/08/21, 15:08 - Pranay Subk: Yes. Something to do with fraud analysis,  anomaly prediction and investigation
+10/08/21, 19:43 - Pranay Subk: Hi All: Sorry, need to move our data science call tomorrow to 3:30 - 4 pm. 
+@919462191237  : Let's go through presentation in that call
+10/08/21, 19:45 - Prashant Subk: Sure Pranay
+11/08/21, 15:34 - Pranay Subk: In ANM call. Will join in 10 mins
+11/08/21, 15:34 - Abhishek Subk: Ok
+11/08/21, 15:35 - Prashant Subk: Ok
+11/08/21, 15:41 - Pranay Subk: Joined
+12/08/21, 13:02 - Pranay Subk: Hi Team: In data science call, anything to be discussed today? If yes, let's discuss at 4:30 pm
+12/08/21, 13:03 - Prashant Subk: Ok Pranay
+12/08/21, 13:17 - Abhishek Subk: ok
+12/08/21, 13:20 - Shishir Singh Subk: Nothing from my side for today to discuss ...if required I will join at 4:30 pm
+13/08/21, 14:02 - Pranay Subk: Some issue logging in. Wait
+16/08/21, 17:25 - Pranay Subk: Hi Team: I won't be available on Wednesday. Will be out for a field visit.
+17/08/21, 14:20 - Pranay Subk: Sorry, power cut
+17/08/21, 14:21 - Pranay Subk: I have nothing more to discuss. In case you have, please stay back.
+17/08/21, 14:21 - Pranay Subk: Else feel free to drop off
+23/08/21, 09:11 - Abhishek Subk: Hi Team,
+I am not feeling well today and will be on sick leave.
+23/08/21, 09:31 - Pranay Subk: Take care
+25/08/21, 11:24 - Pranay Subk: In data science call today, will discuss MFI from 2-2:30 pm.
+25/08/21, 11:26 - Pranay Subk: @918979885445 @918884226987 : If there's anything to discuss,  please reach out to me 1-1. Please update timeline in PM tool as discussed yesterday
+25/08/21, 11:29 - Kishlaya: Now I am waiting for my AWS credentials.
+25/08/21, 11:30 - Kishlaya: My laptop might also get delivered by tomorrow.
+25/08/21, 12:00 - Shishir Singh Subk: Sure...
+26/08/21, 14:57 - Kishlaya: Sorry had a net connection problem.
+26/08/21, 15:27 - Pranay Subk: No problem
+27/08/21, 10:14 - Pranay Subk: Hey: Multiple conflicts at 2-3 pm. Request you to reach out to me 1-1 if any help is needed. Else lets skip data science call today
+27/08/21, 14:42 - Pranay Subk: One meeting got canceled. I am available. Can talk now if anyone wants to discuss anything
+31/08/21, 17:08 - Pranay Subk: Hi Team: Hope I can move our data science call tomorrow to 1-2 pm
+31/08/21, 17:08 - Abhishek Subk: yes sure
+31/08/21, 17:09 - Abhishek Subk: from my side
+31/08/21, 17:09 - Prashant Subk: No problem
+31/08/21, 17:16 - Kishlaya: Ok 👍
+31/08/21, 17:22 - Shishir Singh Subk: No issues..
+02/09/21, 10:02 - Pranay Subk: Multiple conflicts at 2-3 pm. Request you to reach out to me 1-1 if any help is needed. Else lets skip data science call today
+02/09/21, 10:02 - Abhishek Subk: Ok
+02/09/21, 13:12 - Pranay Subk: <Media omitted>
+02/09/21, 13:50 - Kishlaya: 👍
+06/09/21, 13:42 - Pranay Subk added Daivakari Subk
+06/09/21, 15:00 - Pranay Subk: <Media omitted>
+06/09/21, 15:02 - Abhishek Subk: Pranay once this bug issue is completed I'll start looking into the solutions.
+I am not aware of deployment in general so can't say with confident. But I'll try to find out a solution within 14th of sep
+07/09/21, 12:55 - Pranay Subk added Seshu Subk
+07/09/21, 12:55 - Pranay Subk added Vinod Subk
+07/09/21, 12:56 - Pranay Subk: Hi Seshu, Vinod: Request you to attend data science calls from 2-3 pm whenever you are available. Adding you in invite
+07/09/21, 15:03 - Pranay Subk: https://meet.google.com/qsy-dmgp-upn
+07/09/21, 15:03 - Pranay Subk: 👆 Call with Aditya of ISB. Whoever wants, feel free to join
+07/09/21, 16:00 - Pranay Subk: Hi Daivakari,  Kishlaya: We were supposed to talk at 4pm. Can we talk now?
+07/09/21, 16:00 - Daivakari Subk: Sure
+07/09/21, 16:00 - Pranay Subk: Quick orientation
+07/09/21, 16:01 - Pranay Subk: https://meet.google.com/dqs-ztzw-zvj
+07/09/21, 16:06 - Kishlaya: I have joined.
+07/09/21, 18:20 - Daivakari Subk: Hey Pranay,
+The orientation call is there from 6:30 today?
+07/09/21, 18:24 - Pranay Subk: No, Daivakari. Let's talk tomorrow. Will 1-1:30 pm work? I will be happy to address your queries, if any
+07/09/21, 18:24 - Daivakari Subk: Sure, no issues
+14/09/21, 14:10 - Abhishek Subk: Hi team
+14/09/21, 14:10 - Abhishek Subk: I am on call with Supriya
+14/09/21, 14:10 - Abhishek Subk: Won't be able to join today's sync up call
+21/09/21, 14:07 - Seshu Subk: I will join the call at 2:30
+22/09/21, 14:02 - Pranay Subk: Will join by 2:10
+22/09/21, 14:03 - Pranay Subk: In call
+22/09/21, 14:13 - Pranay Subk: @919966112520 @919985460092 Request you to join data science calls daily
+22/09/21, 14:17 - Vinod Subk: From tomorrow Sure Pranay, I'm traveling today.
+22/09/21, 14:19 - Pranay Subk: Ok
+23/09/21, 13:56 - Pranay Subk: Running late by 15 mins
+23/09/21, 13:56 - Pranay Subk: Lets connect at 2:15
+23/09/21, 13:57 - Vinod Subk: Ok Pranay 👍🏻
+24/09/21, 13:33 - Pranay Subk: Hi Team: Sorry, we won't have data science call today. My calendar is really crowded today
+24/09/21, 13:33 - Pranay Subk: Sorry for last minute notice
+24/09/21, 13:33 - Pranay Subk: Pls reach out to me if any clarification is needed
+24/09/21, 13:33 - Pranay Subk: Work should not stop
+24/09/21, 14:07 - Kishlaya: Ok Pranay, I did the cluster analysis with Abhishek's help and got a decent score(to select no. of clusters) for 2 or 4 clusters. We can have a discussion further.
+24/09/21, 15:18 - Pranay Subk: Good
+27/09/21, 13:59 - Seshu Subk: I will join by 2:10
+29/09/21, 08:50 - Pranay Subk: Does the revised time of data science call (12:30 - 1:30) apply from today? @919462191237 @918979885445
+29/09/21, 08:51 - Prashant Subk: Yes Pranay
+29/09/21, 08:52 - Prashant Subk: But you have also sent the invitation. Shall I cancel mine?
+29/09/21, 08:59 - Pranay Subk: No no. Ignore mine
+29/09/21, 08:59 - Pranay Subk: I will delete mine
+29/09/21, 12:24 - Pranay Subk: Running late by 10 mins. Pls start data science call without me
+29/09/21, 12:30 - Prashant Subk: Hi Everyone, Please make sure to join the Microsoft teams call for which the invite has been sent by me.
+29/09/21, 12:44 - Pranay Subk: Can anyone forward the invite to me?
+29/09/21, 12:44 - Pranay Subk: Some prob with my mailbox &calendar
+29/09/21, 12:44 - Vinod Subk: https://teams.microsoft.com/l/meetup-join/19:meeting_YzVlY2E4OGItYTkyYS00NGU0LWJjM2YtMzkwMzUwNjk0ZGNl@thread.v2/0?context={"Tid":"9788776a-ff48-4935-9e84-33c459613817","Oid":"aceff8f8-7db5-4ade-81b8-8a45cefd26dd"}
+29/09/21, 12:44 - Pranay Subk: Thanks
+29/09/21, 12:46 - Vinod Subk: You're invited to a Teams meeting!
+
+Sub-K Data Science Call
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVlY2E4OGItYTkyYS00NGU0LWJjM2YtMzkwMzUwNjk0ZGNl%40thread.v2/0?context=%7b%22Tid%22%3a%229788776a-ff48-4935-9e84-33c459613817%22%2c%22Oid%22%3a%22aceff8f8-7db5-4ade-81b8-8a45cefd26dd%22%7d
+
+Tap on the link or paste it in a browser to join.
+29/09/21, 13:01 - Pranay Subk: To optimize time of all team members, we can focus on credit from 12:30-1 and ANM from 1- 1:30
+29/09/21, 13:02 - Pranay Subk: Respective team members can join the call accordingly to optimize time
+30/09/21, 12:30 - Abhishek Subk: Hi team will join 10 minutes late
+30/09/21, 12:36 - Daivakari Subk: Hi Team, I am in the Ascend Call now
+30/09/21, 13:50 - Pranay Subk: @918884226987 Will join in 5 mins
+01/10/21, 09:10 - Pranay Subk: I won't be joining the call today
+05/10/21, 13:33 - Abhishek Subk: <Media omitted>
+05/10/21, 13:33 - Abhishek Subk: <Media omitted>
+05/10/21, 13:33 - Abhishek Subk: We are looking for data analyst
+05/10/21, 22:56 - Pranay Subk: No data science call tomorrow
+07/10/21, 11:01 - Prashant Subk: Hi Pranay, I won't be able to join today's data science call as I will be traveling
+07/10/21, 11:04 - Pranay Subk: Sure. Team, if any one of you require support or direction, please reach out to me 1-1. Even I may not be able to join data science call today
+07/10/21, 11:06 - Kishlaya: Hi Pranay, I'll be needing some guidance for the risk tool development. We can connect whenever you are free.
+07/10/21, 11:23 - Daivakari Subk: Hi Pranay, I won't be able to join the Data Science Call today as I am travelling.
+07/10/21, 11:56 - Pranay Subk: So let's cancel data science call today
+07/10/21, 11:56 - Pranay Subk: Please call me or share a link for me to join
+07/10/21, 12:38 - Kishlaya: https://meet.google.com/qke-eohf-zkk
+07/10/21, 12:38 - Pranay Subk: Joining now
+07/10/21, 12:39 - Kishlaya: Please join whoever wants to join for data science anm discussion.
+07/10/21, 12:43 - Vinod Subk: Pls accept, I'm waiting
+08/10/21, 12:33 - Pranay Subk: MSME business call is On
+08/10/21, 12:33 - Pranay Subk: Will be late to data science call
+11/10/21, 12:27 - Kishlaya: Me and Abhishek will join 10 min late
+11/10/21, 12:27 - Kishlaya: We are in an interview call
+11/10/21, 12:36 - Pranay Subk: 👍
+12/10/21, 13:13 - Pranay Subk: @918979885445 @919462191237 @919065778266 : Pls read/ go through videos on how to understand accuracy of any model.. read about confusion matrix, recall, precision, ROC & AUC curve, F-score etc
+12/10/21, 13:14 - Pranay Subk: You need to know (from business or risk point of view) what is more important for you - precision or recall
+12/10/21, 13:15 - Pranay Subk: For business team, recall may be important but for risk team, precision may be important. And vice versa
+12/10/21, 13:19 - Pranay Subk: So from strategic perspective,  you should be clear what you want. And accordingly, tell the data analyst whether you want a high recall or high precision.  Data analyst will tweak the model accordingly and maximize on precision or recall
+12/10/21, 13:27 - Daivakari Subk: Sure, Pranay
+13/10/21, 07:44 - Pranay Subk: Hi Kishlaya: Since ANM risk modeling is almost complete and Shishir will be on leave next week, request you to tag along with Prashant for next 10 days (today to 23-Oct) for MFI analysis.
+13/10/21, 07:44 - Pranay Subk: Hi Prashant: We can start the work on MFI
+13/10/21, 07:50 - Kishlaya: Sure Pranay
+13/10/21, 12:27 - Pranay Subk: Shishir and I are running late by 10-15 mins
+13/10/21, 12:27 - Pranay Subk: Pla start with MFI discussion
+13/10/21, 12:27 - Prashant Subk: Sure Pranay
+13/10/21, 12:36 - Kishlaya: You deleted this message
+13/10/21, 12:39 - Kishlaya: Having issues in joining the meeting
+13/10/21, 12:39 - Kishlaya: Getting white screen
+13/10/21, 12:40 - Kishlaya: Got in.
+13/10/21, 17:36 - Abhishek Subk left
+14/10/21, 08:04 - Pranay Subk: Daivakari and I will not be able to attend data science call today. Please reach out to me 1-1 if there is any help required. Thank you
+20/10/21, 05:36 - Seshu Subk: I can not join today's call due to personal work.
+21/10/21, 12:25 - Prashant Subk: Do we need to have the Data Science Call today?
+21/10/21, 12:26 - Pranay Subk: Let's cancel if nothing to discuss
+21/10/21, 12:27 - Prashant Subk: Nothing in MFI at the moment. Me n Kishlaya are still working on the ADC Behavioural Analysis
+25/10/21, 11:05 - Pranay Subk: Hi Team: There is Sub-K strategic meeting from 12:45 pm onwards. Can we have quick discussion on data science prior to that?
+25/10/21, 11:06 - Seshu Subk: sure
+25/10/21, 11:06 - Shishir Singh Subk: Yes..
+25/10/21, 11:21 - Pranay Subk: Ok, can we connect now on data science link? I am available
+25/10/21, 11:21 - Kishlaya: ok
+25/10/21, 11:30 - Pranay Subk: Hi Team: Prashant is busy with another call so that link is not available
+25/10/21, 11:30 - Pranay Subk: Let's connect on this link - https://meet.google.com/nce-jbzt-fos
+25/10/21, 23:06 - Pranay Subk: Hi Team: We will have to do our data science call tomorrow from 10-10:30 am. Sorry for inconvenience
+26/10/21, 09:55 - Pranay Subk: Hi Team: I will be on data science link from 10-10:30 am. In case you want to discuss, please join in. Others, please feel free to pass
+26/10/21, 09:56 - Prashant Subk: Google Link or Teams link? Can u specify?
+26/10/21, 09:57 - Pranay Subk: Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVlY2E4OGItYTkyYS00NGU0LWJjM2YtMzkwMzUwNjk0ZGNl%40thread.v2/0?context=%7b%22Tid%22%3a%229788776a-ff48-4935-9e84-33c459613817%22%2c%22Oid%22%3a%22aceff8f8-7db5-4ade-81b8-8a45cefd26dd%22%7d>
+26/10/21, 09:57 - Pranay Subk: Your link
+26/10/21, 09:58 - Prashant Subk: ok, got it
+27/10/21, 12:25 - Pranay Subk: Can anyone organize a zoom call for data science call today? Prashant doesn't have internet
+27/10/21, 12:28 - Shishir Singh Subk: Shishir Singh is inviting you to a scheduled Zoom meeting.
+
+Topic: Data Science Meeting
+Time: Oct 27, 2021 12:30 PM India
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85376349438?pwd=alpYdFFEQ2FObW9qbk9aOTlVblp6dz09
+
+Meeting ID: 853 7634 9438
+Passcode: PwN0X6
+27/10/21, 13:16 - Pranay Subk: Shishir: Are you facing any issue with the link?
+27/10/21, 13:16 - Shishir Singh Subk: Yes Pranay
+27/10/21, 13:16 - Pranay Subk: Ohk
+27/10/21, 13:17 - Shishir Singh Subk: I am trying to get connected
+27/10/21, 13:17 - Pranay Subk: Ok
+27/10/21, 13:21 - Pranay Subk: No problem,  lets have a 1-1 call on presentation
+27/10/21, 13:21 - Pranay Subk: Others can carry on with their work
+28/10/21, 11:03 - Pranay Subk: Request to move our data science call to 1:30-2:30
+28/10/21, 11:05 - Pranay Subk: 1:30-2 pm
+28/10/21, 11:05 - Prashant Subk: Ok will do that
+28/10/21, 13:49 - Pranay Subk: <Media omitted>
+29/10/21, 12:27 - Prashant Subk: We will have to push the Data Science call to 1 pm as another meeting is going on where Pranay, Seshu and me are part of.......
+29/10/21, 12:29 - Shishir Singh Subk: Ok 👍
+31/10/21, 13:53 - Chinmay Subk left
+01/11/21, 10:51 - Pranay Subk added Naveen Data Analyst Sub-K
+03/11/21, 09:22 - Pranay Subk: Hi team: Can today's data science call be moved to 1:30-2:30 pm? Sorry for inconvenience
+03/11/21, 09:22 - Pranay Subk: ISB team will join from 1:30-2
+03/11/21, 09:23 - Pranay Subk: 1-1:30 we have accion
+03/11/21, 09:25 - Naveen Data Analyst Sub-K changed this group's icon
+03/11/21, 10:02 - Daivakari Subk: Works with me 👍🏻
+05/11/21, 13:09 - Shishir Singh Subk: Hi team...I am facing some connectivity issue..trying to rejoin
+05/11/21, 16:41 - Pranay Subk: <Media omitted>
+05/11/21, 16:41 - Pranay Subk: what was discussed today 👆
+05/11/21, 21:16 - Naveen Data Analyst Sub-K: Can anyone please provide
+The forms that are used by csr to collect customer data.
+05/11/21, 21:20 - Pranay Subk: https://drive.google.com/folderview?id=19cebVLa52OrkGxl5VFTU8YKAZ7yCUX4R
+05/11/21, 21:23 - Naveen Data Analyst Sub-K: Thanks
+I think this help us in understanding the data being collected nicely
+05/11/21, 21:23 - Naveen Data Analyst Sub-K: 👍🏻
+05/11/21, 21:32 - Pranay Subk: <Media omitted>
+05/11/21, 21:33 - Pranay Subk: 👆 contains all the fields being captured in apps
+05/11/21, 21:34 - Pranay Subk: <Media omitted>
+05/11/21, 21:34 - Naveen Data Analyst Sub-K: Thanks
+This is the first thing we need to have very good clarity
+Once we know data in and out than
+We can move forward
+05/11/21, 21:34 - Pranay Subk: Also 👆 Daivakari's sheet should help
+05/11/21, 21:35 - Pranay Subk: 👍 yes
+05/11/21, 21:43 - Naveen Data Analyst Sub-K: sorry i was not able to find any files in this link
+05/11/21, 22:48 - Pranay Subk: It contains folders. Files are in the folder
+05/11/21, 22:48 - Naveen Data Analyst Sub-K: Ok sir 
+I'll check again
+08/11/21, 12:00 - Prashant Subk: Hi @919966112520 just reminding you that we will have a training session with AI Garage team.
+08/11/21, 12:01 - Seshu Subk: Okay
+08/11/21, 12:06 - Pranay Subk: I am in AWS billing call. Will try to join data science call at earliest
+08/11/21, 12:17 - Pranay Subk: Pls start without me
+10/11/21, 10:46 - Pranay Subk: Wont be able to join data science call today
+10/11/21, 10:46 - Pranay Subk: Pls call / ping me if needed
+11/11/21, 12:00 - Pranay Subk: Will have to skip the data science call today too. I will resume tomorrow
+12/11/21, 16:50 - Pranay Subk: @917661095626 : Pls go through today's data science call recording
+12/11/21, 16:51 - Naveen Data Analyst Sub-K: Sure sir
+16/11/21, 13:37 - Pranay Subk: <Media omitted>
+17/11/21, 12:59 - Pranay Subk: Dear Team: Please learn about deep learning models like CNN, RNN by going through videos. CNN is useful in object identification. RNN is useful in conversations. It's important that you understand how unstructured data will be used in building sophisticated AI models
+17/11/21, 13:00 - Naveen Data Analyst Sub-K: 👍🏻
+18/11/21, 11:31 - Pranay Subk: Hi Team: I will not be able to attend data science call today. Pls ping me if you want to discuss anything
+19/11/21, 10:21 - Pranay Subk: Hi Team: Today also I won't be able to join data science call. Boarding a flight
+19/11/21, 10:22 - Pranay Subk: Please ping me if there's anything to discuss. I will call. I will be available full-time tomorrow onwards
+21/11/21, 08:55 - Seshu Subk: Hi Team, I have regularized all the pending attendance requests. Please check. Today is last day.
+22/11/21, 13:36 - Pranay Subk: https://drive.google.com/folderview?id=0B2LtX6bODwd6RVc0b1NNUzI1UWM&resourcekey=0-2Q7fJy6plo3NF-Ef9Tl_ZA
+22/11/21, 13:36 - Kishlaya: 👍
+22/11/21, 13:37 - Pranay Subk: 👆 As discussed during the call. This score is representative of all socio-economic variables
+22/11/21, 13:37 - Pranay Subk: It was created using all possible secondary data available in our country
+22/11/21, 14:31 - Pranay Subk: @918884226987 : I confirm that it has to be binary decision in MFI - approve or reject. Pls take accept/ reject variable which comes right after CB check
+22/11/21, 14:32 - Pranay Subk: In above scenario, that discussion on average or last loan amount is no more needed
+22/11/21, 14:34 - Kishlaya: Ok Pranay, in that case we won't be able to use the new dataset
+22/11/21, 16:47 - Seshu Subk: [Name] Narendra Rao I T
+[Mobile] +919390213863
+[Home] r.nare13@gmail.com
+[Home] Andhra Pradesh, India
+25/11/21, 08:41 - Pranay Subk: Hi Team: I will have to drop off at 1pm today. Will attend data science call from 12:30-1 pm. I will not be available from 1-3 pm
+25/11/21, 14:42 - Pranay Subk: Sagar Sub-K.vcf (file attached)
+25/11/21, 14:43 - Pranay Subk: Team: Adding Sagar, who has joined us as data analyst
+25/11/21, 14:43 - Pranay Subk added Sagar Subk
+25/11/21, 14:43 - Pranay Subk: Welcome Sagar
+25/11/21, 14:44 - Pranay Subk: @919065778266 : Pls invite Sagar to 3pm call
+25/11/21, 14:44 - Pranay Subk: @919462191237 : Pls add Sagar in data science call invite
+25/11/21, 14:45 - Prashant Subk: @919348064328 please share ur email Id
+25/11/21, 14:58 - Sagar Subk: sagarkishoredakua1997@gmail.com
+25/11/21, 14:59 - Prashant Subk: Send ur official mail Id please
+25/11/21, 14:59 - Sagar Subk: Not received yet
+25/11/21, 14:59 - Prashant Subk: Ok
+25/11/21, 17:00 - Prashant Subk: @919848748364 , Janu from AI Garage team won't be available for Time Series Data discussion till Tuesday due to medical emergency at his home
+25/11/21, 17:00 - Prashant Subk: Can we postpone tomorrow's discussion with Devika till Tuesday?
+25/11/21, 17:33 - Pranay Subk: Mail id:      sagarkishore.dakua@suk.co.in
+Password:  Subk@2021  ( S caps)
+25/11/21, 17:34 - Pranay Subk: Sagar: Your official mail id
+25/11/21, 17:35 - Pranay Subk: Tuesday onwards, I'll not be there. I recommend that we do the session tomorrow itself. And share recording with Janu
+25/11/21, 17:43 - Prashant Subk: Ok will do that
+25/11/21, 18:12 - Sagar Subk: Ok
+25/11/21, 21:14 - Pranay Subk: Hi Pranay : pls involve me while developing MFI @ algorithms discussions
+25/11/21, 21:14 - Pranay Subk: 👆 Message from Pavan
+25/11/21, 21:15 - Pranay Subk: @919462191237 : Why not invite him to call tomorrow?
+25/11/21, 21:19 - Prashant Subk: Ok, I will extend the invitation to him as well and should I invite Gowri and Manasa as well?
+25/11/21, 21:34 - Pranay Subk: No, not needed
+26/11/21, 19:05 - Pranay Subk: Hi
+26/11/21, 19:05 - Pranay Subk: My doubt on the model was mostly thinking about moratorium adjustment and how it would impact the model you are creating
+26/11/21, 19:05 - Pranay Subk: Rest it seems fine
+26/11/21, 19:05 - Pranay Subk: 👆 message from Devika
+26/11/21, 19:10 - Shishir Singh Subk: I don’t think this as an issue as we are eliminating this by not taking moratorium period into consideration...as discussed we will be taking last m/end date of repayment as 31/01/2020 for all customers
+26/11/21, 19:11 - Shishir Singh Subk: We can discuss more on this
+26/11/21, 19:12 - Shishir Singh Subk: we can take Devika’s opinion on this
+26/11/21, 19:32 - Pranay Subk: Sure
+26/11/21, 19:32 - Pranay Subk: Let's proceed with our RFM approach
+26/11/21, 19:37 - Shishir Singh Subk: Sure...already started..we are completed with our recency score for all MSME customers
+26/11/21, 19:42 - Pranay Subk: 👍
+29/11/21, 10:46 - Pranay Subk: Hi Team: I have a 11am-4pm meeting with Sasi, Mahesh, Srinivas etc. I will not be able to attend data science call today. I'll be available after 6 pm today
+29/11/21, 10:58 - Vinod Subk: Hope we have weekly meeting at 4 as planned.
+29/11/21, 12:12 - Prashant Subk: I am cancelling the DS call for today then
+30/11/21, 10:37 - Naveen Data Analyst Sub-K: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+30/11/21, 10:38 - Naveen Data Analyst Sub-K: this is one course on courseera that could help us in project and it cost depends on how much time u want to finish the course
+30/11/21, 10:39 - Naveen Data Analyst Sub-K: https://www.youtube.com/user/howardjeremyp
+30/11/21, 10:40 - Naveen Data Analyst Sub-K: this is very famous course on ml and dl available free on youtube
+30/11/21, 12:13 - Prashant Subk: @919848748364 Do we have DS call today?
+30/11/21, 12:15 - Vinod Subk: Pranay will not be there for today's call
+30/11/21, 12:23 - Prashant Subk: Ok No problem
+01/12/21, 01:14 - Pranay Subk: Hi Prashant: Request you to move tomorrow's data science call to 11:30-12:30. Hope there are no conflicts
+01/12/21, 11:29 - Prashant Subk: Hi team sorry for the delay
+01/12/21, 11:29 - Prashant Subk: I have updated the invite just now
+01/12/21, 11:31 - Daivakari Subk: Hi team,
+Will be joining the call at 11:45
+01/12/21, 17:31 - Pranay Subk: Hi MFI, MSME team: Will be great if I can see RFM formula tomorrow esp. the numerator and denominator in R, F and M. And then the formula for composite score
+01/12/21, 17:31 - Pranay Subk: Thanks
+02/12/21, 16:46 - Shishir Singh Subk: <Media omitted>
+02/12/21, 16:48 - Daivakari Subk: Seems fine with me
+03/12/21, 09:30 - Pranay Subk: Joining in few m8ns
+03/12/21, 12:08 - Pranay Subk: Action Items:
+1.	Bullet points on datakind -what worked , what did not. 
+2.	Bullet points on AI garage support – what worked, what did not.
+03/12/21, 12:08 - Pranay Subk: can you give your inputs on these 2 points
+03/12/21, 12:08 - Pranay Subk: 👆 message from Devika
+03/12/21, 12:08 - Pranay Subk: @918979885445 @919462191237 : can you spare 10 mins in sharing these bullet points?
+03/12/21, 12:09 - Pranay Subk: Alternatively, you can just call and inform Devika
+03/12/21, 12:10 - Pranay Subk: @918979885445 : Be blunt in talking about Datakind. We spend considerable hours (at least 40 hours) in telling about our business. It has resulted in zero RoI
+03/12/21, 12:14 - Prashant Subk: Sure Pranay
+03/12/21, 12:14 - Pranay Subk: Or better. We can write few liners mail to her with me in CC
+03/12/21, 12:14 - Pranay Subk: Thanks
+04/12/21, 13:27 - Shishir Singh Subk: Dear Seshu,
+As discussed yesterday we are not able to access the each month collection data of the customers month wise...Request you to please provide the schema/path for same so that we can complete our task today
+06/12/21, 04:17 - Pranay Subk: Hi team: Apologies for short notice. I did not know that I'll have stay awake till late for a family function. Will have to cancel 9:30 am call. Let's resume our discussion on Tuesday 9:30 am. Please reach out to me 1-1 for any dependencies. Thank you
+06/12/21, 11:37 - Naveen Data Analyst Sub-K: https://www.jstor.org/stable/26511243?seq=1#metadata_info_tab_contents
+06/12/21, 11:45 - Naveen Data Analyst Sub-K: In this paper they also included std devn of payment times in addition to r f and m so i think we also can include that in our model because it is adding new additional information which not included in in rfm
+06/12/21, 11:49 - Shishir Singh Subk: I have already done that in our last use case for MSME...don’t use sd instead go for CV..we can connect to discuss on this
+06/12/21, 11:50 - Naveen Data Analyst Sub-K: sure we can discuss and improve it accordingly 👍🏻
+06/12/21, 20:06 - Prashant Subk: Hi Everyone, we are postponing the 9:30-10 AM call of tomorrow, but Pranay would be having a discussion with us during the later part of the day. He will tell us about meeting time tomorrow only.
+07/12/21, 10:58 - Daivakari Subk: Hi Everyone,
+Can you suggest a half an hour slot today to discuss about the unstructured data modelling.
+07/12/21, 11:59 - Daivakari Subk: Hi team, can we meet at 12:30 pm ?
+07/12/21, 12:00 - Naveen Data Analyst Sub-K: fine for me👍🏻
+07/12/21, 12:05 - Kishlaya: 👍
+07/12/21, 12:09 - Prashant Subk: We can use the Data Science Link of 12:30-1:30 pm, no need to create a separate link Daivakari
+07/12/21, 12:09 - Daivakari Subk: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY1NDJmMjUtN2Q2ZC00MTFkLThhZmItYjRlMzQ1ZWMzODU1%40thread.v2/0?context=%7b%22Tid%22%3a%229788776a-ff48-4935-9e84-33c459613817%22%2c%22Oid%22%3a%22a093d9fa-4d88-4f3b-9912-7ef115ec41c7%22%7d
+07/12/21, 12:10 - Daivakari Subk: Should I cancel this occurrence and instead meet at DS call link?
+07/12/21, 12:10 - Prashant Subk: I think that would be better
+07/12/21, 12:11 - Daivakari Subk: Okay
+07/12/21, 12:27 - Kishlaya: Can someone add me in Bida Microsoft teams? My mail id -
+ho2@subko365.onmicrosoft.com
+07/12/21, 12:33 - Daivakari Subk: @919348064328 @917661095626 @918979885445  waiting for you guys at DS link
+07/12/21, 15:12 - Pranay Subk: Hi Team: Lets have data science call at 4pm
+07/12/21, 15:13 - Pranay Subk: I am available whole of second half
+07/12/21, 16:02 - Shishir Singh Subk: Team please join in the Data science link
+07/12/21, 16:03 - Prashant Subk: This message was deleted
+07/12/21, 16:04 - Pranay Subk: Tuesday, December 7, 12:30pm-01:30pm: Sub-K Data Science Call
+Location: Microsoft Teams Meeting
+Description: Hi Everyone,
+You can forward the link below to relevant stakeholders if they are not included in the invitee list.
+
+Thanks & Regards
+Prashant Khamesra (YP – BIDA)
+______________________________________________________________________________
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVlY2E4OGItYTkyYS00NGU0LWJjM2YtMzkwMzUwNjk0ZGNl%40thread.v2/0?context=%7b%22Tid%22%3a%229788776a-ff48-4935-9e84-33c459613817%22%2c%22Oid%22%3a%22aceff8f8-7db5-4ade-81b8-8a45cefd26dd%22%7d>
+Learn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=aceff8f8-7db5-4ade-81b8-8a45cefd26dd&tenantId=9788776a-ff48-4935-9e84-33c459613817&threadId=19_meeting_YzVlY2E4OGItYTkyYS00NGU0LWJjM2YtMzkwMzUwNjk0ZGNl@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+Organizer: prashant.khamesra@subk.co.in
+Attendees: , Rajput, Nitendra, 'Pranay Bhargava', Vinod Kumar, Saraswat, Ankur, Daivakari  Kapoor, , ShishirRajSingh, Radha Sri Seshu Kolla,
+07/12/21, 16:26 - Pranay Subk: Some issue with my link. Wait, I will join
+07/12/21, 16:31 - Pranay Subk: Am I the only one facing the issue?
+07/12/21, 16:31 - Prashant Subk: We are on the call here
+07/12/21, 16:31 - Daivakari Subk: We are on the link and it seems fine
+07/12/21, 16:31 - Prashant Subk: All of us
+07/12/21, 16:31 - Pranay Subk: Ok
+07/12/21, 16:31 - Pranay Subk: Restarting my laptop
+08/12/21, 14:17 - Pranay Subk: https://stanfordnlp.github.io/chirpycardinal/
+08/12/21, 14:18 - Pranay Subk: @919348064328 : You can get name of public dataset (for text) here
+08/12/21, 14:19 - Sagar Subk: Thanks @919848748364
+08/12/21, 15:32 - Sagar Subk: @919848748364 I am not able to find names of any datasets.
+09/12/21, 09:44 - Daivakari Subk: Hi Team,
+Good Morning 
+I am experiencing poor connectivity at my end.
+Please let me know the updates I have to share. I will call and do the needful.
+Sincere apologies for same
+10/12/21, 09:35 - Prashant Subk: Hi Pranay, would you be joining the call today?
+10/12/21, 09:46 - Pranay Subk: Yes yes.
+10/12/21, 09:46 - Pranay Subk: Sorry, lost track of time. Joining now if you all are still there
+10/12/21, 09:47 - Prashant Subk: Me n Kishlaya are here
+10/12/21, 09:47 - Pranay Subk: Ok. Joining
